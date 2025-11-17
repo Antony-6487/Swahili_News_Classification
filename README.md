@@ -20,7 +20,7 @@ Files included:
 
 swahili_news_classification.ipynb – Jupyter/Colab notebook with full code
 
-submission.csv – Example submission file
+submission.csv 
 
 README.md – Project documentation
 
